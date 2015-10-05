@@ -9,7 +9,7 @@
         height:250px;
         position: relative;
         float: right;
-        right:90px;
+        right:290px;
        /* -ms-transform: rotate(353deg);
         -webkit-transform: rotate(353deg); /*Chrome, Safari, Opera */
         transform: rotate(353deg);
@@ -17,7 +17,7 @@
     }
     
     hr{
-        width:55%;
+        width:56%;
         alignment-adjust:text-after-edge;
         margin-left:250px;
     }
